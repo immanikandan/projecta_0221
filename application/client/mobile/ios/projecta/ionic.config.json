@@ -1,0 +1,7 @@
+{
+  "name": "projecta",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
