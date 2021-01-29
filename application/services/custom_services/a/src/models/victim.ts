@@ -1,6 +1,6 @@
 var todoModel={
-    name:string,
-    phone_no:number
+    victim_name: String
+    victim_code: String
 }
 
 module.exports=todoModel;
